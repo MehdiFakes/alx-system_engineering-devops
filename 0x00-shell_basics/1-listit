@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Why I still have error"
+cd ~
